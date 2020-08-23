@@ -21,6 +21,17 @@
 * Aug 21st, 2020
 * Aug 22nd, 2020
 * Aug 23rd, 2020
+** Was reading about [[ted nelson]]  and his [[xanadu project]]
+*** The work of a man and his team over decades is truly fascinating and inspiring
+*** Even though he admits that they screwed up big time , still the passion and obsession towards their dream project is something
+*** Today seeing softwares like [[roam]] and other [[tools for thought]] emerging  out as more accessible to the pubic , it feels like the resurrection of [[xanadu project]]
+** [[Dilemma]]
+*** I use [[roam]]  for all of my [[note making]] but recently felt that i should have a software close to roam which can provide a local storage for my notes
+*** [[logseq]] is my final pic
+**** [[Reasons]]
+***** The developer’s vision is nice, his dedication to the project is truly great
+***** [[Athens research]] was a good option, but they went to the pricing/pay wall thing thought initially they had given out the impression that they would be free to use tool
+*****
 * Aug 24th, 2020
 * Aug 25th, 2020
 * Aug 26th, 2020
